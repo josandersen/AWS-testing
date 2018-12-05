@@ -1,2 +1,2 @@
-# My portofolio
-Dette er mitt test område
+# Mitt leke-repo
+Dette er et test område for kodesnutter i AWS
